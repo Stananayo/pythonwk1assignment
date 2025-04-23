@@ -19,5 +19,6 @@ def simple_calculator():
     else:
         print(f"{num1} {operation} {num2} = {result}")
 
+
 # Call the function to run the calculator
 simple_calculator()
